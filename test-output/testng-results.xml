@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="8" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2020-02-12T09:17:28Z" finished-at="2020-02-12T09:17:28Z">
+    <groups>
+      <group name="login">
+        <method signature="GroupBy.test1()[pri:0, instance:org.testng.selenium.GroupBy@224edc67]" name="test1" class="org.testng.selenium.GroupBy"/>
+        <method signature="GroupBy.test3()[pri:0, instance:org.testng.selenium.GroupBy@224edc67]" name="test3" class="org.testng.selenium.GroupBy"/>
+        <method signature="GroupBy.test5()[pri:0, instance:org.testng.selenium.GroupBy@224edc67]" name="test5" class="org.testng.selenium.GroupBy"/>
+        <method signature="GroupBy.test7()[pri:0, instance:org.testng.selenium.GroupBy@224edc67]" name="test7" class="org.testng.selenium.GroupBy"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2020-02-12T09:17:28Z" finished-at="2020-02-12T09:17:28Z">
+      <class name="org.testng.selenium.GroupBy">
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.testng.selenium.GroupBy@224edc67]" name="test1" duration-ms="0" started-at="2020-02-12T14:47:28Z" finished-at="2020-02-12T14:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:org.testng.selenium.GroupBy@224edc67]" name="test3" duration-ms="0" started-at="2020-02-12T14:47:28Z" finished-at="2020-02-12T14:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:org.testng.selenium.GroupBy@224edc67]" name="test5" duration-ms="0" started-at="2020-02-12T14:47:28Z" finished-at="2020-02-12T14:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:org.testng.selenium.GroupBy@224edc67]" name="test7" duration-ms="0" started-at="2020-02-12T14:47:28Z" finished-at="2020-02-12T14:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+      </class> <!-- org.testng.selenium.GroupBy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
